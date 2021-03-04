@@ -28,11 +28,14 @@ The future value calculator can be used to determine future value, or FV, in fin
 
 ## Screenshots of the pages
 
-### Home Page Light Mode
-![](https://github.com/BonganiMaila/Responsive-Developer-Profile/blob/master/assets/image/light.png)
+### Home page Blank Entries
+![](https://github.com/BonganiMaila/Future-value-calculator/blob/main/Discount%20calculator%202/images/1.png)
 
-### Home Page Dark Mode
-![](https://github.com/BonganiMaila/Responsive-Developer-Profile/blob/master/assets/image/dark.png)
+### Home Page Number Entries
+![](https://github.com/BonganiMaila/Future-value-calculator/blob/main/Discount%20calculator%202/images/2.png)
+
+### Home Page Entries Executed
+![](https://github.com/BonganiMaila/Future-value-calculator/blob/main/Discount%20calculator%202/images/3.png)
 
 
 
