@@ -1,6 +1,6 @@
 # Future-value-calculator
 
-The future value calculator can be used to determine future value, or FV, in financing. FV is simply what money is expected to be worth in the future. Typically, cash in a savings account or a hold in a bond purchase earns compound interest and so has a different value in the future.
+The future value calculator can be used to determine future value, or FV, in finance. FV is simply what money is expected to be worth in the future. Typically, cash in a savings account or an investment that earns compound interest and so has a different value in the future.
 
 ## Table of Contents
 
